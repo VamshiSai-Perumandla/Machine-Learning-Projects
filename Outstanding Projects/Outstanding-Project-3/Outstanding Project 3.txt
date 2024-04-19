@@ -1,0 +1,4 @@
+Compare 3 different news channels news and find out the following.
+
+How many positive and negative sentiment articles are present each day?
+You can use data from twitter or any other platform to train your model on sentiment analysis and once trained you can use new channel articles for sentiment prediction and classification.
